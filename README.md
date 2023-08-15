@@ -1,1 +1,2 @@
 # Pretrained-model-demonstration-
+This case study employs the pre-trained VGG16 model to accomplish dual tasks of image classification and feature extraction. The study focuses on distinguishing between car and plane images. Leveraging the power of transfer learning, the VGG16 model is fine-tuned for accurate image classification. The dense layer, with a sigmoid activation function, aids in refining predictions while feature extraction provides valuable insights into the inherent characteristics driving the classification process.
